@@ -1,9 +1,6 @@
 RxIMU
 =====
 
-TxIMU_MPU9150_DMP
-=================
-
 This source is for a nRF51822 wireless Rx board with IMU sensor.
 And the development target is a GPS coupled wireless IMU.
 
